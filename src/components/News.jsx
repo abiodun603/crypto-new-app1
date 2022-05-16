@@ -79,11 +79,6 @@ const News = ({ simplified }) => {
           </Card>
         </Col>
       ))}
-
-      <select>
-        <option>boy</option>
-        <option>girl</option>
-      </select>
     </Row>
   );
 };

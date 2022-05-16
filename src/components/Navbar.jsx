@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="logo-container">
         {/* <Avatar /> */}
         <Typography.Title level={2} className="logo">
-          <Link to="/">OrtunCyptNews</Link>
+          <Link to="/">OrCypto</Link>
         </Typography.Title>
       </div>
 
